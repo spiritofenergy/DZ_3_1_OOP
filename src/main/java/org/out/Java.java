@@ -9,4 +9,5 @@ public class Java {
     public String[]keywords = new String[]{"int", "double", "import", "else", "if", "private"};
     public String main_Application = "Используется для создания кросс-платформенных приложений, веб-сервисов и мобильных приложений на платформе Android";
 
+
 }

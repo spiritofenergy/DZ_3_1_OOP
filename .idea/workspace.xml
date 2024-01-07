@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="140aed22-3fd7-4b7e-8e86-b1344689e690" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Chancellery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Decanat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FileInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MacOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Ubuntu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Windows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/out/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/out/Swift.java" afterDir="false" />
+    <list default="true" id="140aed22-3fd7-4b7e-8e86-b1344689e690" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Nasa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Quote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Language.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/out/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/out/Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/out/Swift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/out/Swift.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -92,6 +90,39 @@
       <option name="presentableId" value="Default" />
       <updated>1704235416641</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1704566972688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704566972688</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1704566995746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704566995746</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1704567026639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704567026639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1704567036557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704567036557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

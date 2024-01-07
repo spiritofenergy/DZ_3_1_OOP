@@ -12,6 +12,4 @@ public class Swift{
     public String main_Application = "Разработка iOS и macOS приложений";
 
 
-
-
 }
